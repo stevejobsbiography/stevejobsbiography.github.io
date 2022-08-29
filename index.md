@@ -1,4 +1,2 @@
-# ArchDud3 Hub
-#### *For all my stuff*
-[My experience with Linux](linuxexp.md)<br>
-[My setup](setup.md)
+# Steve Jobs
+#### *Innovation distinguishes between a leader and a follower - Steve Jobs*
