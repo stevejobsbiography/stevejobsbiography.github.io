@@ -1,4 +1,4 @@
-theme: minma
+theme: gem "minima"
 title: Steve Jobs
 navbar:
   type: inverse
