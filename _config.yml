@@ -1,19 +1,6 @@
 theme: minma
 title: Steve Jobs
-template:
-  params:
-    bootswatch: flatly
-reference:
-  - title: Exported Functions
-    desc: ~
-    contents:
-      - '`aaaa`'
-      - '`bbbb`'
 navbar:
   type: inverse
   left:
     - icon: Steve-Jobs-Thinking.ico
-      href: index.md
-    - text: "faq"
-      icon: fa-question-circle-o
-      href: articles/faq.html
