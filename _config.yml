@@ -1,6 +1,8 @@
-theme: "minima"
+theme: minima
 title: Steve Jobs
 navbar:
   type: inverse
   left:
     - icon: Steve-Jobs-Thinking.ico
+minima:
+  skin: dark
