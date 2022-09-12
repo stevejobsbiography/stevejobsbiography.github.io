@@ -3,3 +3,9 @@ title: Steve Jobs
 icon: Steve-Jobs-Thinking.ico
 minima:
   skin: dark
+  
+style:
+  .footer {
+    display: Contact me at aussiedude010@gmail.com or if you want to contibute then go to the [Github.](github.com/ArchDud3/archdud3.github.io);
+  }
+
