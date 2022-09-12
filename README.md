@@ -1,2 +1,3 @@
-# archdud3.github.io"
-If you know me then stop stalking me
+# archdud3.github.io
+## Steve Jobs Biography
+if you are here to commit changes to this, then contact aussiedude010@gmail.com and he will give you instructions.
