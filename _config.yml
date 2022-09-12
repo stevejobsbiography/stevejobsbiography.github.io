@@ -4,8 +4,3 @@ icon: Steve-Jobs-Thinking.ico
 minima:
   skin: dark
   
-style:
-  .footer {
-    display: Contact me at aussiedude010@gmail.com ;
-  }
-
