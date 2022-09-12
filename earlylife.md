@@ -3,4 +3,4 @@ Steven Paul Jobs was born on Feburary 24 1955 in San Fransisco, California. He w
 ## Education
 In 1962 he went to Homestead elementary school, then in 1968 he went to Monta Loma High school. In 1972 he went to Reed college in portland for 2 years, before dropping out.
 
-(Home)[index.md]
+[Home](index.md)
