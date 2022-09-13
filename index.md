@@ -5,7 +5,7 @@ Steve Jobs had done many things in his life. From the iPhone to the Macintosh to
 *Please keep in mind that this is a Github Pages site, so if you see a random peice of code like (Home)[index.md] then ignore it. Also if you see a 404 pop up, go back to the home page.*
 
 ### Contents
-[Early life](earlylife.md)
+[Early life](earlylife.md) <br>
 [Apple II and Macintosh](apple2andmacintosh.md)
 
 
