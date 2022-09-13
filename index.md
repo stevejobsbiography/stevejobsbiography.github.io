@@ -6,7 +6,7 @@ Steve Jobs had done many things in his life. From the iPhone to the Macintosh to
 
 ### Contents
 [Early life](earlylife.md)
-
+[Apple II and Macintosh](apple2andmacintosh.md)
 
 
 
