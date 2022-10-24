@@ -10,6 +10,6 @@ Steve Jobs had done many things in his life. From the iPhone to the Macintosh to
 [Hired again and Final years](renew.md) <br>
 [Bibliography](Bibliography.md)
 
-
+Ignore the top bar and use the contents instead as the top bar isn't sorted.
 
 
