@@ -9,7 +9,7 @@ Steve Jobs had done many things in his life. From the iPhone to the Macintosh to
 [Early life](earlylife.md) <br>
 [Apple II and Macintosh](apple2andmacintosh.md) <br>
 [NeXT and Pixar](NeXTandpixar.md) <br>
-
+[Back at apple](renew.md) <br>
 
 
 
