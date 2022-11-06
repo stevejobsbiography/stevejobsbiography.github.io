@@ -38,7 +38,7 @@ https://mactracker.ca/ <br>
 [Home](index.md)
 <br>
 <br>
-If you want to see the code, go to [github.com/ArchDud3/archdud3.github.io](github.com/ArchDud3/archdud3.github.io) <br>
+If you want to see the code, go to github.com/stevejobsbiography/stevejobsbiography.github.io <br>
 ©2022 ArchDud3. No rights reserved. And it's not copyrighted either. Or registered. I just want to be special.
 
 
